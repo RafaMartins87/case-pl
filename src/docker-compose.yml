@@ -13,7 +13,7 @@ services:
   product-app:
     build: .
     environment:
-      DbServer: "DESKTOP-7I8VLQQ\\SQLEXPRESS"
+      DbServer: "\\SQLEXPRESS"
       DbPort: "1433"
       DbUser: "webdb"
       Password: "numsey#2021"
